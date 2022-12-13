@@ -1,6 +1,6 @@
 {
   "name": "thanhdinh1",
-  "version": "1.10.0",
+  "version": "1.10.1",
   "main": "./lib/dinhthanh",
   "description": "Keep the opened tabs amount below specified limit",
   "license": "MIT",
