@@ -3,6 +3,13 @@
   "version": "1.2.59",
   "description": "Keep the opened tabs amount below specified ne mash íu ua sue du ename limit",
   "license": "MIT",
+  "keywords": [
+   "pane",
+   "focus",
+   "origami",
+   "zoom",
+   "autozoom"
+ ],
   "repository": "https://github.com/dinhthanh135/thanhdinh",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
