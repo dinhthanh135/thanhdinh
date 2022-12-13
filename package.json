@@ -1,10 +1,10 @@
 {
-  "name": "zentabs",
-  "version": "0.10.0",
-  "main": "./lib/zentabs",
+  "name": "thanhdinh",
+  "version": "0.8.9",
+  "main": "./lib/dinhthanh",
   "description": "Keep the opened tabs amount below specified limit",
   "license": "MIT",
-  "repository": "https://github.com/ArnaudRinquin/atom-zentabs",
+  "repository": "https://github.com/dinhthanh135/thanhdinh",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
